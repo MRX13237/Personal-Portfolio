@@ -45,6 +45,7 @@ nav a.active {
 }
 
 section {
+    position:fixed ;
     min-height: 100vh;
     display: fixed;
     justify-content: center;
@@ -56,6 +57,7 @@ section {
 }
 section:nth-child(odd) {
     background: #333333;
+    position: fixed;
 }
 .picture-home{
   width: 500px;
