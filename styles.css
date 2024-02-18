@@ -76,14 +76,14 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("bak2.jpg");
+    background: url("file:///C:/Users/Admin/Desktop/CC14_Portfolio/img/bak2.jpg");
     background-size:cover;
     font-size: 100px;
     color: #fff;
     font-weight: 700;
 }
 section:nth-child(odd) {
-    background: url("Back.avif");
+    background: url("file:///C:/Users/Admin/Desktop/CC14_Portfolio/img/Back.avif");
     background-size: cover;
 }
 .picture-home{
