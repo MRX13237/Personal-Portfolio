@@ -12,7 +12,7 @@ body{
     width: 1000%;
     height: 1000%;   
     max-height: 1000%;
-    overflow-x: hidden;
+    overflow-x: 900%;
     
 }
 header {
