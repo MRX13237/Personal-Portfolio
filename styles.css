@@ -76,14 +76,14 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url("https://github.com/MRX13237/Personal-Portfolio/blob/main/img/bak2.jpg");
+    background: url("https://github.com/MRX13237/Personal-Portfolio/blob/main/img/bak2.jpg?raw=true");
     background-size:cover;
     font-size: 100px;
     color: #fff;
     font-weight: 700;
 }
 section:nth-child(odd) {
-    background: url("https://github.com/MRX13237/Personal-Portfolio/blob/main/img/Back.avif");
+    background: url("https://github.com/MRX13237/Personal-Portfolio/blob/main/img/Back.avif?raw=true");
     background-size: cover;
 }
 .picture-home{
